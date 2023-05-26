@@ -30,8 +30,15 @@
 	display: flex;
 	justify-content: space-around;
 }
-.media-icons .media-item{
-	width: 15%;
+.media-icons a{
+	width: 40%;
+	height: 50%;
+/* 	border: 2px solid yellow; */
+	display: flex;
+	justify-content: space-around;
+}
+a .media-item{
+	width: 80%;
 	height: 100%;
 	border-radius: 100px;
 }
